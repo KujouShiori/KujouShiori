@@ -20,6 +20,6 @@ printf("%d", me & world);<br>
 
 メールで連絡してくれてもいい
 
-📧KujouShiori@qq.com
+📧KazamaChizuru@qq.com
 
 :-)
