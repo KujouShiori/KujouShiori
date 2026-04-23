@@ -15,6 +15,4 @@ printf("%d", me & world);<br>
 
 連絡先〒464-8601愛知県名古屋市千種区栄町
 
-📧KujouShiori@qq.com
-
 :-)
