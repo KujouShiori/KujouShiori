@@ -26,11 +26,9 @@ printf("%d", me & world);
 
 | リポジトリ | なに |
 | --- | --- |
-| [Playersuite](https://github.com/KujouShiori/Playersuite) | Java —— NeoForge 1.21.1、遊びながら「これ欲しいな」と思った機能を詰め込んだ MOD |
-| [One_Piece_For_Minecraft](https://github.com/KujouShiori/One_Piece_For_Minecraft) | Java —— Bukkit 1.20+、BAN されたプレイヤーの遺産をどう始末するかというプラグインよ |
-| [UUIDManagerPlugin](https://github.com/KujouShiori/UUIDManagerPlugin) | Java —— スキンサイトに乗り換えたとき、旧 offline ログインの uuid.dat を自動リネームするの |
-| [LocalFictionReading_UWP](https://github.com/KujouShiori/LocalFictionReading_UWP) | C# / UWP —— 手元の小説を読むだけのリーダーなの |
-| [Minecraft-mod-sinicization](https://github.com/KujouShiori/Minecraft-mod-sinicization) | 自分が遊ぶ範囲の MOD 中国語化辞書。新版の訳を旧版に落とし込むのにも使ってるわ |
+| [KujouShiori.github.io](https://github.com/KujouShiori/KujouShiori.github.io) | HTML —— Hexo で組んだ自分のブログよ。日本古代史と神話の文章、それにリソース解析の記録をここに置いてるの |
+| [MirrorStation.github.io](https://github.com/MirrorStation/MirrorStation.github.io) | HTML —— Minecraft の整合包と遊び方を集めてアーカイブするサイト。自分で組んで GitHub Pages に置いてるわ |
+| [BurstWitchCodex.github.io](https://github.com/BurstWitchCodex/BurstWitchCodex.github.io) | JavaScript —— 停服したスマホゲーム『爆裂魔女』の非公式 Wiki なの。無くなるはずだった資料を手元から起こしてるのよ |
 | [The-Elder-Scrolls-5-Skyrim-All-books](https://github.com/KujouShiori/The-Elder-Scrolls-5-Skyrim-All-books) | ★5 —— 天际のゲーム内書籍を全部抜いた資料庫よ |
 
 もともと遊びたいゲームに中国語がなかったんですもの、それで翻訳を始めた、というのがいちばん動機に近いの。Minecraft / galgame のローカライズと、消えたら困る資料のアーカイブで仓库の大半が埋まってるわ。ゲームのデータベースサイト（MirrorStation、BurstWitchCodex など）も自分で組んで GitHub Pages に置いてますの♪
