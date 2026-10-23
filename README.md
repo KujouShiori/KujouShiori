@@ -19,7 +19,7 @@ printf("%d", me & world);
 手元の AI クライアント会話ログと各社クラウド用量 API を叩いて、token 消費量・推定費用・残高・直近 7 日の推移を島に常駐表示させますわ。単価は全部自分で設定できるようにしてあるのよ、予算を超えたら、残高が少なくなったら、警告も出てくるわ。
 ここで一番気をつかったのは「足さない」ことなの。手元ログとクラウド API は運営元も通貨もちがう別の帳簿ですもの、合算なんてしたくないの。出典ごとに別行へ、落ちたら静かにローカルログへ退避します。API キーはプラグインにも settings.json にも置かなくて、環境変数の名前だけを持つようにしてるのよ♪
 
-- [luolangaga/WinLandPlugin](https://github.com/luolangaga/WinLandPlugin) のマーケット投稿：1.0.0 と 1.1.0 はマージしていただいたわ、1.2.0 は審査中。
+- [luolangaga/WinLandPlugin](https://github.com/luolangaga/WinLandPlugin) のマーケット投稿。
 
 ### 作ってるもの / 集めてるもの
 
