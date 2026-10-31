@@ -47,6 +47,7 @@ printf("%d", me & world);
 ![UWP / WPF](https://img.shields.io/badge/UWP%2FWPF-76D976?style=for-the-badge&logo=windows&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-0078d7?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+[![XERJ Corpus Hub contributor](https://hub.xerj.org/contributors/KujouShiori/badge.svg)](https://hub.xerj.org/contributors/KujouShiori)
 
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=KujouShiori&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000"/>
