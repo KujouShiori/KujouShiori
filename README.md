@@ -26,7 +26,7 @@ printf("%d", me & world);
 | リポジトリ | なに |
 | --- | --- |
 | [KujouShiori.github.io](https://github.com/KujouShiori/KujouShiori.github.io) | HTML —— Hexo で組んだ自分のブログよ。日本古代史と神話の文章、それにリソース解析の記録をここに置いてるの |
-| [MirrorStation.github.io](https://github.com/MirrorStation/MirrorStation.github.io) | HTML —— Minecraft の整合包と遊び方を集めてアーカイブするサイト。自分で組んで GitHub Pages に置いてるわ |
+| [YatagarasuMC.github.io](https://github.com/YatagarasuMC/YatagarasuMC.github.io) | HTML —— Minecraft の整合包と遊び方を集めてアーカイブするサイト。自分で組んで GitHub Pages に置いてるわ |
 | [BurstWitchCodex.github.io](https://github.com/BurstWitchCodex/BurstWitchCodex.github.io) | JavaScript —— 停服したスマホゲーム『爆裂魔女』の非公式 Wiki なの。無くなるはずだった資料を手元から起こしてるのよ |
 | [The-Elder-Scrolls-5-Skyrim-All-books](https://github.com/KujouShiori/The-Elder-Scrolls-5-Skyrim-All-books) | ★5 —— 天际のゲーム内書籍を全部抜いた資料庫よ |
 
