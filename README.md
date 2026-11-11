@@ -84,7 +84,7 @@
 
 <p align="center">
   <img alt="GitHub の統計" height="180em" src="https://github-readme-stats.zohan.tech/api?username=KujouShiori&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" />
-  <img alt="よく使う言語" height="180em" src="https://github-readme-stats.zohan.tech/api/top-langs/?username=KujouShiori&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000" />
+  <img alt="よく使う言語" height="180em" src="https://github-readme-stats.zohan.tech/api/top-langs/?username=KujouShiori&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000&locale=ja" />
   <br />
   <img alt="訪問者数" src="https://komarev.com/ghpvc/?username=KujouShiori&color=0079d5&style=for-the-badge" />
 </p>
